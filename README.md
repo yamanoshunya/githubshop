@@ -1,6 +1,8 @@
 # githubshop
 オクトキャットをみんなで買おう
 
+https://github.myshopify.com/
+
 買ったで
 
-ステッカー x 1
+Sticker Packs x 1
